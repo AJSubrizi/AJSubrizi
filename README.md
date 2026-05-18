@@ -8,9 +8,6 @@
   <a href="https://ajsubrizi.dev">
     <img src="https://img.shields.io/badge/Portfolio-ajsubrizi.dev-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
   </a>
-  <a href="https://github.com/AJSubrizi">
-    <img src="https://img.shields.io/badge/GitHub-AJSubrizi-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
-  </a>
   <a href="https://x.com/AJSubrizi">
     <img src="https://img.shields.io/badge/X-@AJSubrizi-38bdf8?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" />
   </a>
