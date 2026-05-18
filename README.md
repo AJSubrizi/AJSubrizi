@@ -58,29 +58,34 @@ Code is only valuable when it solves a real problem.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-38bdf8?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-38bdf8?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-38bdf8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js-38bdf8?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/API-REST-38bdf8?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-38bdf8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/BaaS-Supabase-38bdf8?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=0f172a" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ORM-Prisma-38bdf8?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Payments-Paddle-38bdf8?style=for-the-badge&logo=paddle&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Deploy-Vercel-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Tools-Docker-38bdf8?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paddle-FF6000?style=for-the-badge&logo=paddle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Learning_by_Doing-38bdf8?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Focus-Product_Thinking-38bdf8?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Workflow-AI_Augmented-38bdf8?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning_by_Doing-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Thinking-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Augmented-FFB000?style=for-the-badge" />
+</p>
