@@ -57,12 +57,30 @@ Code is only valuable when it solves a real problem.
 
 ## Tech Stack
 
-```ts
-const stack = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "REST APIs", "Supabase", "Prisma"],
-  database: ["PostgreSQL", "SQL", "NoSQL"],
-  tools: ["Git", "GitHub", "Docker", "Vercel", "CI/CD"],
-  mindset: ["Learning by Doing", "Product Thinking", "AI-Augmented Development"],
-};
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-38bdf8?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-38bdf8?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-38bdf8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0f172a" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js-38bdf8?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/API-REST-38bdf8?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-38bdf8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/BaaS-Supabase-38bdf8?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0f172a" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ORM-Prisma-38bdf8?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Payments-Paddle-38bdf8?style=for-the-badge&logo=paddle&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Deploy-Vercel-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Tools-Docker-38bdf8?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Learning_by_Doing-38bdf8?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Focus-Product_Thinking-38bdf8?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Workflow-AI_Augmented-38bdf8?style=for-the-badge&labelColor=0f172a" />
+</p>
 ```
