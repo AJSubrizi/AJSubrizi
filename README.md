@@ -1,4 +1,23 @@
-# Antonio Junior Subrizi
+<h1 align="center">Antonio Junior Subrizi</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer · AI-Augmented Builder · Self-Taught Engineer</strong>
+</p>
+
+<p align="center">
+  <a href="https://ajsubrizi.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ajsubrizi.dev-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="https://github.com/AJSubrizi">
+    <img src="https://img.shields.io/badge/GitHub-AJSubrizi-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="https://x.com/AJSubrizi">
+    <img src="https://img.shields.io/badge/X-@AJSubrizi-38bdf8?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="mailto:antoniosubrizi17@outlook.it">
+    <img src="https://img.shields.io/badge/Email-Contact-38bdf8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0f172a" />
+  </a>
+</p>
 
 **Full-Stack Developer · AI-Augmented Builder · Self-Taught Engineer**
 
@@ -46,3 +65,4 @@ const stack = {
   tools: ["Git", "GitHub", "Docker", "Vercel", "CI/CD"],
   mindset: ["Learning by Doing", "Product Thinking", "AI-Augmented Development"],
 };
+```
