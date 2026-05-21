@@ -8,8 +8,8 @@
   <a href="https://ajsubrizi.dev">
     <img src="https://img.shields.io/badge/Portfolio-ajsubrizi.dev-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
   </a>
-  <a href="https://x.com/AJSubrizii">
-    <img src="https://img.shields.io/badge/X-@AJSubrizii-38bdf8?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" />
+  <a href="https://x.com/AJSubrizi">
+    <img src="https://img.shields.io/badge/X-@AJSubrizi-38bdf8?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" />
   </a>
   <a href="mailto:antoniosubrizi17@outlook.it">
     <img src="https://img.shields.io/badge/Email-Contact-38bdf8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0f172a" />
