@@ -40,7 +40,6 @@ My mindset is simple:
 
 I am building and refining real products, including:
 
-- **NailDash.it**: a SaaS management platform for nail studios
 - **HRM-ReRead-MT**: my pinned GitHub project
 - Full-stack platforms combining software engineering, automation, and AI-assisted workflows
 
