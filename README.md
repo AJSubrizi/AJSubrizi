@@ -1,7 +1,7 @@
 <h1 align="center">Antonio Junior Subrizi</h1>
 
 <p align="center">
-  <strong>Full-Stack &amp; Software Engineer · AI-Augmented Builder · Self-Taught</strong>
+  <strong>Full-Stack Developer &amp; Software Engineer · AI-Augmented Builder · Self-Taught</strong>
 </p>
 
 <p align="center"><em>“Simplicity is the ultimate sophistication.”</em></p>
