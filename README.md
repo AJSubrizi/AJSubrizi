@@ -23,7 +23,7 @@
 
 ---
 
-I build real products end-to-end — frontend, backend, distributed systems, and AI
+I build real products end-to-end frontend, backend, distributed systems, and AI
 applications. Self-taught, with a path that came from building, breaking, fixing, and
 shipping rather than a traditional academic route. I care about delivering results that
 solve real problems, not winning technology debates.
